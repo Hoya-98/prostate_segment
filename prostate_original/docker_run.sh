@@ -1,0 +1,1 @@
+docker run -d --name prostate_original -p 8001:8001 --gpus all prostate_original:latest

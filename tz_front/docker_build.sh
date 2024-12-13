@@ -1,0 +1,1 @@
+docker build -t tz_front:latest .

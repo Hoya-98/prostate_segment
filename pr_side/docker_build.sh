@@ -1,0 +1,1 @@
+docker build -t pr_side:latest .

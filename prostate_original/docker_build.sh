@@ -1,0 +1,1 @@
+docker build -t prostate_original:latest .

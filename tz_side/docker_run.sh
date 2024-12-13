@@ -1,0 +1,1 @@
+docker run -d --name tz_side -p 8005:8005 --gpus all tz_side:latest

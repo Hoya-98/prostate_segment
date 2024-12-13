@@ -1,0 +1,1 @@
+docker run -d --name tz_front -p 8004:8004 --gpus all tz_front:latest

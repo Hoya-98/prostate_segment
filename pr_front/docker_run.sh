@@ -1,0 +1,1 @@
+docker run -d --name pr_front -p 8002:8002 --gpus all pr_front:latest
